@@ -18,7 +18,7 @@ public class Ringue {
 		double altura,peso;
 		
 		// desenrolar do codigo
-		System.out.println("PREENCHA AS INFORMAÇOES ABAIXO :");
+		System.out.println("PREENCHA AS INFORMAÇÕES ABAIXO :");
 		
 		for(int i=0;i<inf.length;i++) {
 			
@@ -47,7 +47,7 @@ public class Ringue {
 		}
 	
 		do {
-			System.out.println("----MENU----");
+			System.out.println("-----MENU-----");
 			System.out.println("1- APRESENTAÇÃO DOS LUTADORES");
 			System.out.println("2- STATUS DOS LUTADORES");
 			System.out.println("3- ADICIONAR VITORIA");
